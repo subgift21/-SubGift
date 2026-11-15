@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for rvg-sfi63g on 2026-11-15T03:52:23Z
+# fly.toml app configuration file generated for subgift on 2026-11-15T06:28:30Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'rvg-sfi63g'
-primary_region = 'fra'
+app = 'subgift'
+primary_region = 'ams'
 
 [build]
 [env]
