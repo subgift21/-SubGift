@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for subgift on 2026-11-15T06:28:30Z
+# fly.toml app configuration file generated for subgift1 on 2026-11-15T06:31:46Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'subgift'
+app = 'subgift1'
 primary_region = 'ams'
 
 [build]
